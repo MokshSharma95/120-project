@@ -1,0 +1,26 @@
+.lens{
+    
+    font-size: 20px;
+}
+#googlelens{
+    font-size: small;
+}
+.versus{
+    color: red;
+    margin-top: 15px;
+    font-weight: bold;
+}
+#mobilenet{
+     color: white;
+     font-size: 20px;
+     font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: lightseagreen;
+    line-height: 2;
+    text-align: center;
+  }
